@@ -94,7 +94,7 @@
        //public properties
         //physics
         velocity: 2,
-        force: 0.5,
+        force: 0.15,
         //positional
         x: 70,
         y: 20,
